@@ -1,6 +1,8 @@
 HTML Scraper
 ============
 
+ONLY FOR PROOF OF CONCEPT
+
 Quick notes to run this project under the UV-managed workspace:
 
 1. Create and/or edit `.env` in the project root and set your credentials:
