@@ -1,0 +1,13 @@
+[project]
+name = "html-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+	"selenium >= 4.12.0",
+	"webdriver-manager >= 4.0.0",
+	"beautifulsoup4",
+	"pandas",
+	"requests",
+]
